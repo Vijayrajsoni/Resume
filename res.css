@@ -1,0 +1,89 @@
+*{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0;
+    padding: 0;
+}
+.resume{
+    position: relative;
+    width: 55rem;
+    height: 70rem;
+    margin: 0 10rem 10rem 10rem;
+    background-color: rgb(197, 243, 228);
+    padding-top: 4rem;
+    border-radius: 5px;
+}
+.heading{
+    position: relative;
+    display: flex;
+    height: 11rem;
+    background-color: rgb(246, 246, 243);
+}
+h1{
+    margin-top: 2rem;
+    font-size: 5rem;
+    width: 40rem;
+}
+.img img{
+    margin-top: 8px;
+    margin-left: 3rem;
+    height: 9.5rem;
+    width: 9.5rem;
+    border-radius: 50%;
+}
+img:hover{
+    cursor: pointer;
+}
+.foot{
+    display: flex;
+}
+.left{
+    position: relative;
+    background-color: rgb(246, 242, 249);
+    width: 16rem;
+    height:57rem;
+    margin:10px;
+    list-style: none;
+    border-radius: 20px;
+}
+.left ,h2,li{
+    margin-top: 8px;
+    margin-left:20px ;
+}
+.skill  li{
+    margin-bottom: 15px;
+}
+.edu ul,li{
+    margin-top: 10px;
+}
+.right{
+    position: relative;
+    background-color: rgb(246, 242, 249);
+    width: 36rem;
+    height:57rem;
+    margin-top: 10px;
+    list-style: none;
+    border-radius: 20px;
+}
+.right p{
+    font-size: 1.2rem;
+    margin: 25px 30px  4.2rem 5px;
+}
+.pr{
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.link i{
+   margin-left: 5rem;
+   margin-top: 3rem;
+   
+}
+.s{
+    color: blue;
+}
+.i{
+    color: rgb(174, 14, 110);
+}
+.g{
+    color:black
+    }
